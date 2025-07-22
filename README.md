@@ -26,6 +26,8 @@ This Power BI project analyzes customer churn data from a fictional telecommunic
 
 ## Insights and Visuals
 
+## Insights
+
 * **The overall churn rate was 26.86% out of over 6,500 customers**, which means about 1 in 4 customers discontinued their services. This is a strong indicator that customer retention is a serious issue and should be a priority for the company moving forward to protect recurring revenue and maintain customer loyalty.
 
 * **A large portion of churned customers left due to competitor advantages**, including better devices, more data, higher download speeds, and more attractive offers. This suggests that Databel needs to improve its service offerings or pricing structure in order to stay competitive in the market and retain customer interest.
@@ -41,23 +43,67 @@ This Power BI project analyzes customer churn data from a fictional telecommunic
 * **Those using paper checks as their payment method churned more frequently than those who used credit or debit cards.**  This may reflect less engagement or more friction in the payment process, and suggests that encouraging customers to switch to digital payment methods could improve convenience and reduce the likelihood of churn.
 
 
+## Visuals
+
+## Overview
+
+
+
+<img width="1920" height="1080" alt="Overview" src="https://github.com/user-attachments/assets/d2324278-ee03-45fe-9a49-ff175794d534" />
+
+
+
+
+## Age Groups
+
+
+
+
+<img width="1920" height="1080" alt="Age Groups" src="https://github.com/user-attachments/assets/280504bb-6a2e-4840-93d0-d131ebfe54b6" />
+
+
+
+
+## Payment and Contract
+
+
+
+
+<img width="1920" height="1080" alt="Payment and Contract" src="https://github.com/user-attachments/assets/d0cd3ef4-b512-4849-8ece-44e2afe64872" />
+
+
+
+
+## Extra Charges
+
+
+
+<img width="1920" height="1080" alt="Extra Charges" src="https://github.com/user-attachments/assets/55e210c8-d6a2-47a9-bfe0-092ba70424ef" />
+
+
+
+
+## Other Insights
+
+
+
+
+<img width="1920" height="1080" alt="Insights" src="https://github.com/user-attachments/assets/6ef30a8d-5c91-4f7d-b0ff-0dab6d8b0017" />
+
+
+
+
 
 ## Recommendations
 
-* **Revamp service plans to compete effectively**
-Since many customers are leaving for better offers, devices, and speeds from competitors, Databel should review and enhance its pricing packages, data plans, and device bundles to stay competitive and attractive.
+* **Revamp service plans to compete effectively**: Since many customers are leaving for better offers, devices, and speeds from competitors, Databel should review and enhance its pricing packages, data plans, and device bundles to stay competitive and attractive.
 
-* **Launch a targeted retention campaign in California**
-With California having the highest churn rate (63.24%), it’s essential to investigate local issues and deploy a region-specific customer loyalty program, possibly including discounts, better service guarantees, or dedicated support lines.
+* **Launch a targeted retention campaign in California**: With California having the highest churn rate (63.24%), it’s essential to investigate local issues and deploy a region-specific customer loyalty program, possibly including discounts, better service guarantees, or dedicated support lines.
 
-* **Improve experience for senior customers (≥80 years)**
-The high churn rate in this age group calls for simplified user interfaces, senior-friendly support, and tailored communication strategies to make services more accessible and intuitive.
+* **Improve experience for senior customers (≥80 years)**: The high churn rate in this age group calls for simplified user interfaces, senior-friendly support, and tailored communication strategies to make services more accessible and intuitive.
 
-* **Optimize customer service operations**
-With over 6,000 service calls and nearly 1 call per customer, Databel should invest in improving first-contact resolution, self-service tools (e.g., chatbots or FAQs), and faster escalation processes to reduce friction and frustration.
+* **Optimize customer service operations**: With over 6,000 service calls and nearly 1 call per customer, Databel should invest in improving first-contact resolution, self-service tools (e.g., chatbots or FAQs), and faster escalation processes to reduce friction and frustration.
 
-* **Incentivize long-term contracts over monthly plans**
-The 46.29% churn rate among monthly subscribers suggests a need for better retention hooks. Offering discounted rates, loyalty rewards, or bundled perks for long-term plans can encourage commitment and reduce churn.
+* **Incentivize long-term contracts over monthly plans**: The 46.29% churn rate among monthly subscribers suggests a need for better retention hooks. Offering discounted rates, loyalty rewards, or bundled perks for long-term plans can encourage commitment and reduce churn.
 
-* **Promote digital payment methods**
-Customers using paper checks churn more often, possibly due to outdated or inconvenient payment processes. Databel should promote seamless digital payment options and possibly phase out paper billing to enhance user experience.
+* **Promote digital payment methods**: Customers using paper checks churn more often, possibly due to outdated or inconvenient payment processes. Databel should promote seamless digital payment options and possibly phase out paper billing to enhance user experience.
