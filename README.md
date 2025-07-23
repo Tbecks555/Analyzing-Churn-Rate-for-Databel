@@ -91,7 +91,8 @@ This Power BI project analyzes customer churn data from a fictional telecommunic
 <img width="1920" height="1080" alt="Insights" src="https://github.com/user-attachments/assets/6ef30a8d-5c91-4f7d-b0ff-0dab6d8b0017" />
 
 
-
+## Dashboard
+[This is the link to the full report of the analysis](https://app.powerbi.com/view?r=eyJrIjoiNjc2N2M2MzgtNzZmNC00YjhmLThlNzItMTMwMDE3OTJhYmU5IiwidCI6ImU3YzczMDVjLTc0ZTctNGUxMi1hNDlkLWJjODFjN2I3MjA3NSJ9)
 
 
 ## Recommendations
