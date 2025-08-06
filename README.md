@@ -97,20 +97,14 @@ This Power BI project analyzes customer churn data from a fictional telecommunic
 
 ## Recommendations
 
-**1. Revamp Service Plans to Compete Effectively**
-Databel can stay competitive by conducting monthly competitor analysis, launching “Switch & Save” bundles with device upgrades or double data, offering flexible add-ons like weekend-only data or free streaming, and designing tiered plans (Basic, Plus, Max) tailored to customer segments — all tested through A/B pricing experiments before full rollout.
+**1. Revamp Service Plans to Compete Effectively**: Databel can stay competitive by conducting monthly competitor analysis, launching “Switch & Save” bundles with device upgrades or double data, offering flexible add-ons like weekend-only data or free streaming, and designing tiered plans (Basic, Plus, Max) tailored to customer segments — all tested through A/B pricing experiments before full rollout.
 
-**2. Launch a Targeted Retention Campaign in California**
-To address California’s high churn, Databel should deploy localized loyalty offers via SMS/email, launch a “We’re Listening” feedback campaign, establish a region-specific support team, introduce a more rewarding referral program, and build trust through partnerships with local influencers or community groups.
+**2. Launch a Targeted Retention Campaign in California**: To address California’s high churn, Databel should deploy localized loyalty offers via SMS/email, launch a “We’re Listening” feedback campaign, establish a region-specific support team, introduce a more rewarding referral program, and build trust through partnerships with local influencers or community groups.
 
-**3. Improve Experience for Senior Customers (80+)**
-Support older customers by creating a dedicated Senior Support Plan with larger fonts, printed guides, simplified interfaces, one-on-one setup assistance, digital literacy workshops, senior-trained support agents, and monthly paper newsletters with tailored content and promotions.
+**3. Improve Experience for Senior Customers (80+)**: Support older customers by creating a dedicated Senior Support Plan with larger fonts, printed guides, simplified interfaces, one-on-one setup assistance, digital literacy workshops, senior-trained support agents, and monthly paper newsletters with tailored content and promotions.
 
-**4. Optimize Customer Service Operations**
-Reduce service call volume and friction by auditing top complaint areas, building a self-service portal with FAQs, video tutorials, and chatbots, tracking First Call Resolution (FCR), using predictive support alerts, and offering live chat or callback options during peak hours.
+**4. Optimize Customer Service Operations**: Reduce service call volume and friction by auditing top complaint areas, building a self-service portal with FAQs, video tutorials, and chatbots, tracking First Call Resolution (FCR), using predictive support alerts, and offering live chat or callback options during peak hours.
 
-**5. Incentivize Long-Term Contracts Over Monthly Plans**
-Lower churn from monthly users by offering “Loyalty Advantage” rewards like 1 free month or bonus perks for annual contracts, highlighting savings during checkout, giving win-back offers to switch plans, allowing flexible upgrades mid-contract, and partnering with banks for installment payment options.
+**5. Incentivize Long-Term Contracts Over Monthly Plans**: Lower churn from monthly users by offering “Loyalty Advantage” rewards like 1 free month or bonus perks for annual contracts, highlighting savings during checkout, giving win-back offers to switch plans, allowing flexible upgrades mid-contract, and partnering with banks for installment payment options.
 
-**6. Promote Digital Payment Methods**
-Encourage digital payments by offering monthly discounts to auto-pay users, gradually phasing out paper billing, making it easy to switch via SMS or app, launching incentive campaigns or contests for digital users, and including simple tutorials in onboarding emails and printed letters.
+**6. Promote Digital Payment Methods**: Encourage digital payments by offering monthly discounts to auto-pay users, gradually phasing out paper billing, making it easy to switch via SMS or app, launching incentive campaigns or contests for digital users, and including simple tutorials in onboarding emails and printed letters.
