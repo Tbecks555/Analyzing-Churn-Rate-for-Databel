@@ -97,14 +97,20 @@ This Power BI project analyzes customer churn data from a fictional telecommunic
 
 ## Recommendations
 
-* **Revamp service plans to compete effectively**: Since many customers are leaving for better offers, devices, and speeds from competitors, Databel should review and enhance its pricing packages, data plans, and device bundles to stay competitive and attractive.
+**1. Revamp Service Plans to Compete Effectively**
+Databel can stay competitive by conducting monthly competitor analysis, launching “Switch & Save” bundles with device upgrades or double data, offering flexible add-ons like weekend-only data or free streaming, and designing tiered plans (Basic, Plus, Max) tailored to customer segments — all tested through A/B pricing experiments before full rollout.
 
-* **Launch a targeted retention campaign in California**: With California having the highest churn rate (63.24%), it’s essential to investigate local issues and deploy a region-specific customer loyalty program, possibly including discounts, better service guarantees, or dedicated support lines.
+**2. Launch a Targeted Retention Campaign in California**
+To address California’s high churn, Databel should deploy localized loyalty offers via SMS/email, launch a “We’re Listening” feedback campaign, establish a region-specific support team, introduce a more rewarding referral program, and build trust through partnerships with local influencers or community groups.
 
-* **Improve experience for senior customers (≥80 years)**: The high churn rate in this age group calls for simplified user interfaces, senior-friendly support, and tailored communication strategies to make services more accessible and intuitive.
+**3. Improve Experience for Senior Customers (80+)**
+Support older customers by creating a dedicated Senior Support Plan with larger fonts, printed guides, simplified interfaces, one-on-one setup assistance, digital literacy workshops, senior-trained support agents, and monthly paper newsletters with tailored content and promotions.
 
-* **Optimize customer service operations**: With over 6,000 service calls and nearly 1 call per customer, Databel should invest in improving first-contact resolution, self-service tools (e.g., chatbots or FAQs), and faster escalation processes to reduce friction and frustration.
+**4. Optimize Customer Service Operations**
+Reduce service call volume and friction by auditing top complaint areas, building a self-service portal with FAQs, video tutorials, and chatbots, tracking First Call Resolution (FCR), using predictive support alerts, and offering live chat or callback options during peak hours.
 
-* **Incentivize long-term contracts over monthly plans**: The 46.29% churn rate among monthly subscribers suggests a need for better retention hooks. Offering discounted rates, loyalty rewards, or bundled perks for long-term plans can encourage commitment and reduce churn.
+**5. Incentivize Long-Term Contracts Over Monthly Plans**
+Lower churn from monthly users by offering “Loyalty Advantage” rewards like 1 free month or bonus perks for annual contracts, highlighting savings during checkout, giving win-back offers to switch plans, allowing flexible upgrades mid-contract, and partnering with banks for installment payment options.
 
-* **Promote digital payment methods**: Customers using paper checks churn more often, possibly due to outdated or inconvenient payment processes. Databel should promote seamless digital payment options and possibly phase out paper billing to enhance user experience.
+**6. Promote Digital Payment Methods**
+Encourage digital payments by offering monthly discounts to auto-pay users, gradually phasing out paper billing, making it easy to switch via SMS or app, launching incentive campaigns or contests for digital users, and including simple tutorials in onboarding emails and printed letters.
